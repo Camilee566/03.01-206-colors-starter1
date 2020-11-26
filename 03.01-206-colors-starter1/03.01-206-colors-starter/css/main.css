@@ -64,18 +64,22 @@ footer {
 @media (min-width: 768px) {
   header {
     background-color: #B0C4de;
+      
   }
 
   #column-1 {
     background-color: #778899;
+      width: 33.3%;
   }
 
   #column-2 {
     background-color: #20B2AA;
+      width: 33.3%;
   }
 
   #column-3 {
     background-color: #D3D3D3;
+      width: 33.3%
   }
 
   footer {
@@ -87,7 +91,7 @@ footer {
 
 /*---------- Desktops ----------*/
 @media (min-width: 1200px) {
-  header {
+  heahttps://github.com/Camilee566/03.01-206-colors-starter1.gitder {
     background-color: #FFE4B5;
   }
 
